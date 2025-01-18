@@ -1,0 +1,5 @@
+outs:
+- md5: 3a13c62b7d7e95163b72a3bf4d72ff8c
+  size: 11155
+  hash: md5
+  path: one_hot_titanic.csv
