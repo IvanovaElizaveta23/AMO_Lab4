@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://19UJgDzDIRLx03SB7XgDVQk04D1Xj9i1e
+    gdrive_service_account_json_file_path = D:\Elizaveta\PycharmProjects\pythonProject\servacc-448215-0a9a8c74501e.json
